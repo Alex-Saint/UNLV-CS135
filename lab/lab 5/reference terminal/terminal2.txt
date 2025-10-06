@@ -1,0 +1,9 @@
+lab 5 % ./a.out
+Character Break File: charactersResting2.txt
+Error: Invalid number detected on line 2
+Error: Invalid number detected on line 3
+Error: Invalid number detected on line 4
+Error: Invalid number detected on line 5
+Error: Invalid number detected on line 6
+Error: Invalid number detected on line 7
+lab 5 %

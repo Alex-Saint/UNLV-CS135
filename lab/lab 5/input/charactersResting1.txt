@@ -1,0 +1,4 @@
+character breaktime downtime delaytime
+Pooh 30 10 0
+Mickey 15 10 20
+Minnie 15 10 0

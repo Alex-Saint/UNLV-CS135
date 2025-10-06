@@ -1,0 +1,4 @@
+lab 5 % g++ main.cpp
+lab 5 % ./a.out
+Character Break File: charactersResting1.txt
+lab 5 %
