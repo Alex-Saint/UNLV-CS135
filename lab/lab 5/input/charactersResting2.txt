@@ -5,4 +5,10 @@ Pluto 20 5 off
 Pluto invalid failure 5
 Pluto err 5 num
 Pluto 20 inv no
+Pluto -1 5 5
+Pluto 20 -10 5
+Pluto 20 5 -17
+Pluto -100 -1 5
+Pluto -67 5 -1
+Pluto 20 -54 -22
 Pluto 20 5 5

@@ -6,4 +6,10 @@ Error: Invalid number detected on line 4
 Error: Invalid number detected on line 5
 Error: Invalid number detected on line 6
 Error: Invalid number detected on line 7
+Error: Invalid number detected on line 8
+Error: Invalid number detected on line 9
+Error: Invalid number detected on line 10
+Error: Invalid number detected on line 11
+Error: Invalid number detected on line 12
+Error: Invalid number detected on line 13
 lab 5 %
