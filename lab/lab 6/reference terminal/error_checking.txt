@@ -1,0 +1,13 @@
+lab 6 % ./a.out     
+K/D File 1/2/3? error
+Error: invalid selection
+K/D File 1/2/3? 0
+Error: invalid selection
+K/D File 1/2/3? 4
+Error: invalid selection
+K/D File 1/2/3? 3
+
+Array full
+
+File Average k/d: 6 : 2
+lab 6 % 

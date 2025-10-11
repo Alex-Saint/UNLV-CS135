@@ -1,0 +1,19 @@
+lab 6 % ./a.out
+K/D File 1/2/3? 2
+
+File Average k/d: 7 : 5
+
+New kill: 8
+New death: 5
+
+Average k/d: 7 : 5
+
+(c)ontinue (any other key to quit)? c
+
+New kill: 5
+New death: 0
+
+Average k/d: 7 : 4
+
+(c)ontinue (any other key to quit)? s
+lab 6 % 
