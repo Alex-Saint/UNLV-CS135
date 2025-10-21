@@ -1,0 +1,15 @@
+Lab 7 % ./a.out
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? q
+
+Quitting...
+Lab 7 % 

@@ -1,0 +1,165 @@
+Lab 7 % ./a.out
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: inv
+
+Error: Move must be between 0 and 9
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 8
+Move Column: whoops
+
+Error: Move must be between 0 and 14
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: err
+
+Error: Move must be between 0 and 9
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 8
+Move Column: -100
+
+Error: Move must be between 0 and 14
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 100
+
+Error: Move must be between 0 and 9
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 8
+Move Column: 4
+
+
+Moved to row 8 column 4
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ p _ _ _ _ _ t t t t _ 
+_ _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 1
+Move Column: thirteen
+
+Error: Move must be between 0 and 14
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ p _ _ _ _ _ t t t t _ 
+_ _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 123
+
+Error: Move must be between 0 and 9
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ p _ _ _ _ _ t t t t _ 
+_ _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 8
+Move Column: 13
+
+There's a tree in your way
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ p _ _ _ _ _ t t t t _ 
+_ _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? q
+
+Quitting...
+Lab 7 % 

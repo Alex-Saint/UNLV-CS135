@@ -1,0 +1,65 @@
+Lab 7 % ./a.out
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: -1
+
+Error: Move must be between 0 and 9
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 10
+
+Error: Move must be between 0 and 9
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ _ _ _ _ _ _ _ _ t t t t _ 
+p _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? m
+
+Move Row: 8
+Move Column: 2
+
+
+Moved to row 8 column 2
+
+t t t t t t t t t t t t t t t 
+t t t t t t t t t t _ _ _ _ _ 
+t t t t _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t t _ _ _ _ _ _ _ _ _ _ _ _ 
+t t _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+t _ _ _ _ _ _ _ _ _ _ t t _ _ 
+_ _ p _ _ _ _ _ _ _ t t t t _ 
+_ _ _ _ _ _ _ _ _ t t t t t t 
+(m)ove -or- (q)uit? q
+
+Quitting...
+Lab 7 % 
