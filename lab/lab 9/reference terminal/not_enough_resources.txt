@@ -1,0 +1,13 @@
+Inventory File: notEnoughResources.csv
+Inventory:
+  1) potion base: 100
+  2) limpwurt root: 0
+  3) eye of newt: 1
+  4) white berries: 9
+Potions File: handout.txt
+5 strength potions requested
+Error: Not enough limpwurt root to make strength potions
+10 attack potions requested
+Error: Not enough eye of newt to make attack potions
+2 defense potions requested
+Error: Not enough white berries to make defense potions

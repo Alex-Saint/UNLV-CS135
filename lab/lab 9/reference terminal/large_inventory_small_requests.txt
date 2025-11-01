@@ -1,0 +1,54 @@
+Inventory File: large.csv
+Inventory:
+  1) potion base: 1000
+  2) limpwurt root: 1000
+  3) eye of newt: 1000
+  4) white berries: 1000
+Potions File: small.txt
+17 strength potions requested
+Mixing 17 strength potions
+Inventory:
+  1) potion base: 983
+  2) limpwurt root: 983
+  3) eye of newt: 1000
+  4) white berries: 1000
+  5) strength: 17
+10 attack potions requested
+Mixing 10 attack potions
+Inventory:
+  1) potion base: 973
+  2) limpwurt root: 983
+  3) eye of newt: 980
+  4) white berries: 1000
+  5) strength: 17
+  6) attack: 10
+10 defense potions requested
+Mixing 10 defense potions
+Inventory:
+  1) potion base: 963
+  2) limpwurt root: 983
+  3) eye of newt: 980
+  4) white berries: 900
+  5) strength: 17
+  6) attack: 10
+  7) defense: 10
+2 attack potions requested
+Mixing 2 attack potions
+Inventory:
+  1) potion base: 961
+  2) limpwurt root: 983
+  3) eye of newt: 976
+  4) white berries: 900
+  5) strength: 17
+  6) attack: 12
+  7) defense: 10
+2 defense potions requested
+Mixing 2 defense potions
+Inventory:
+  1) potion base: 959
+  2) limpwurt root: 983
+  3) eye of newt: 976
+  4) white berries: 880
+  5) strength: 17
+  6) attack: 12
+  7) defense: 12

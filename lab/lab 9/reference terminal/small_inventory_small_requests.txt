@@ -1,0 +1,25 @@
+Inventory File: small.csv
+Inventory:
+  1) potion base: 10
+  2) limpwurt root: 10
+  3) eye of newt: 10
+  4) white berries: 10
+Potions File: small.txt
+17 strength potions requested
+Limited by 10 base potions
+Limited by 10 limpwurt root
+Mixing 10 strength potions
+Inventory:
+  1) potion base: 0
+  2) limpwurt root: 0
+  3) eye of newt: 10
+  4) white berries: 10
+  5) strength: 10
+10 attack potions requested
+Error: Not enough potion base to make attack potions
+10 defense potions requested
+Error: Not enough potion base to make defense potions
+2 attack potions requested
+Error: Not enough potion base to make attack potions
+2 defense potions requested
+Error: Not enough potion base to make defense potions

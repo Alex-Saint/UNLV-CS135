@@ -1,0 +1,13 @@
+Inventory File: noBase.csv
+Inventory:
+  1) potion base: 0
+  2) limpwurt root: 100
+  3) eye of newt: 100
+  4) white berries: 100
+Potions File: handout.txt
+5 strength potions requested
+Error: Not enough potion base to make strength potions
+10 attack potions requested
+Error: Not enough potion base to make attack potions
+2 defense potions requested
+Error: Not enough potion base to make defense potions

@@ -1,0 +1,79 @@
+Inventory File: small.csv
+Inventory:
+  1) potion base: 10
+  2) limpwurt root: 10
+  3) eye of newt: 10
+  4) white berries: 10
+Potions File: large.txt
+2 strength potions requested
+Mixing 2 strength potions
+Inventory:
+  1) potion base: 8
+  2) limpwurt root: 8
+  3) eye of newt: 10
+  4) white berries: 10
+  5) strength: 2
+2 attack potions requested
+Mixing 2 attack potions
+Inventory:
+  1) potion base: 6
+  2) limpwurt root: 8
+  3) eye of newt: 6
+  4) white berries: 10
+  5) strength: 2
+  6) attack: 2
+2 defense potions requested
+Limited by 10 white berries
+Mixing 1 defense potions
+Inventory:
+  1) potion base: 5
+  2) limpwurt root: 8
+  3) eye of newt: 6
+  4) white berries: 0
+  5) strength: 2
+  6) attack: 2
+  7) defense: 1
+10 strength potions requested
+Limited by 5 base potions
+Limited by 8 limpwurt root
+Mixing 5 strength potions
+Inventory:
+  1) potion base: 0
+  2) limpwurt root: 3
+  3) eye of newt: 6
+  4) white berries: 0
+  5) strength: 7
+  6) attack: 2
+  7) defense: 1
+51 defense potions requested
+Error: Not enough potion base to make defense potions
+25 strength potions requested
+Error: Not enough potion base to make strength potions
+77 attack potions requested
+Error: Not enough potion base to make attack potions
+85 attack potions requested
+Error: Not enough potion base to make attack potions
+1 strength potions requested
+Error: Not enough potion base to make strength potions
+1 defense potions requested
+Error: Not enough potion base to make defense potions
+1 strength potions requested
+Error: Not enough potion base to make strength potions
+5 defense potions requested
+Error: Not enough potion base to make defense potions
+10 attack potions requested
+Error: Not enough potion base to make attack potions
+5 defense potions requested
+Error: Not enough potion base to make defense potions
+5 defense potions requested
+Error: Not enough potion base to make defense potions
+100 strength potions requested
+Error: Not enough potion base to make strength potions
+5 attack potions requested
+Error: Not enough potion base to make attack potions
+7 defense potions requested
+Error: Not enough potion base to make defense potions
+5 attack potions requested
+Error: Not enough potion base to make attack potions
+10 strength potions requested
+Error: Not enough potion base to make strength potions

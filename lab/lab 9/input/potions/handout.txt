@@ -1,0 +1,3 @@
+strength 5
+attack 10
+defense 2

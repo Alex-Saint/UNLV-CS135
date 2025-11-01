@@ -1,0 +1,204 @@
+Inventory File: large.csv
+Inventory:
+  1) potion base: 1000
+  2) limpwurt root: 1000
+  3) eye of newt: 1000
+  4) white berries: 1000
+Potions File: large.txt
+2 strength potions requested
+Mixing 2 strength potions
+Inventory:
+  1) potion base: 998
+  2) limpwurt root: 998
+  3) eye of newt: 1000
+  4) white berries: 1000
+  5) strength: 2
+2 attack potions requested
+Mixing 2 attack potions
+Inventory:
+  1) potion base: 996
+  2) limpwurt root: 998
+  3) eye of newt: 996
+  4) white berries: 1000
+  5) strength: 2
+  6) attack: 2
+2 defense potions requested
+Mixing 2 defense potions
+Inventory:
+  1) potion base: 994
+  2) limpwurt root: 998
+  3) eye of newt: 996
+  4) white berries: 980
+  5) strength: 2
+  6) attack: 2
+  7) defense: 2
+10 strength potions requested
+Mixing 10 strength potions
+Inventory:
+  1) potion base: 984
+  2) limpwurt root: 988
+  3) eye of newt: 996
+  4) white berries: 980
+  5) strength: 12
+  6) attack: 2
+  7) defense: 2
+51 defense potions requested
+Mixing 51 defense potions
+Inventory:
+  1) potion base: 933
+  2) limpwurt root: 988
+  3) eye of newt: 996
+  4) white berries: 470
+  5) strength: 12
+  6) attack: 2
+  7) defense: 53
+25 strength potions requested
+Mixing 25 strength potions
+Inventory:
+  1) potion base: 908
+  2) limpwurt root: 963
+  3) eye of newt: 996
+  4) white berries: 470
+  5) strength: 37
+  6) attack: 2
+  7) defense: 53
+77 attack potions requested
+Mixing 77 attack potions
+Inventory:
+  1) potion base: 831
+  2) limpwurt root: 963
+  3) eye of newt: 842
+  4) white berries: 470
+  5) strength: 37
+  6) attack: 79
+  7) defense: 53
+85 attack potions requested
+Mixing 85 attack potions
+Inventory:
+  1) potion base: 746
+  2) limpwurt root: 963
+  3) eye of newt: 672
+  4) white berries: 470
+  5) strength: 37
+  6) attack: 164
+  7) defense: 53
+1 strength potions requested
+Mixing 1 strength potions
+Inventory:
+  1) potion base: 745
+  2) limpwurt root: 962
+  3) eye of newt: 672
+  4) white berries: 470
+  5) strength: 38
+  6) attack: 164
+  7) defense: 53
+1 defense potions requested
+Mixing 1 defense potions
+Inventory:
+  1) potion base: 744
+  2) limpwurt root: 962
+  3) eye of newt: 672
+  4) white berries: 460
+  5) strength: 38
+  6) attack: 164
+  7) defense: 54
+1 strength potions requested
+Mixing 1 strength potions
+Inventory:
+  1) potion base: 743
+  2) limpwurt root: 961
+  3) eye of newt: 672
+  4) white berries: 460
+  5) strength: 39
+  6) attack: 164
+  7) defense: 54
+5 defense potions requested
+Mixing 5 defense potions
+Inventory:
+  1) potion base: 738
+  2) limpwurt root: 961
+  3) eye of newt: 672
+  4) white berries: 410
+  5) strength: 39
+  6) attack: 164
+  7) defense: 59
+10 attack potions requested
+Mixing 10 attack potions
+Inventory:
+  1) potion base: 728
+  2) limpwurt root: 961
+  3) eye of newt: 652
+  4) white berries: 410
+  5) strength: 39
+  6) attack: 174
+  7) defense: 59
+5 defense potions requested
+Mixing 5 defense potions
+Inventory:
+  1) potion base: 723
+  2) limpwurt root: 961
+  3) eye of newt: 652
+  4) white berries: 360
+  5) strength: 39
+  6) attack: 174
+  7) defense: 64
+5 defense potions requested
+Mixing 5 defense potions
+Inventory:
+  1) potion base: 718
+  2) limpwurt root: 961
+  3) eye of newt: 652
+  4) white berries: 310
+  5) strength: 39
+  6) attack: 174
+  7) defense: 69
+100 strength potions requested
+Mixing 100 strength potions
+Inventory:
+  1) potion base: 618
+  2) limpwurt root: 861
+  3) eye of newt: 652
+  4) white berries: 310
+  5) strength: 139
+  6) attack: 174
+  7) defense: 69
+5 attack potions requested
+Mixing 5 attack potions
+Inventory:
+  1) potion base: 613
+  2) limpwurt root: 861
+  3) eye of newt: 642
+  4) white berries: 310
+  5) strength: 139
+  6) attack: 179
+  7) defense: 69
+7 defense potions requested
+Mixing 7 defense potions
+Inventory:
+  1) potion base: 606
+  2) limpwurt root: 861
+  3) eye of newt: 642
+  4) white berries: 240
+  5) strength: 139
+  6) attack: 179
+  7) defense: 76
+5 attack potions requested
+Mixing 5 attack potions
+Inventory:
+  1) potion base: 601
+  2) limpwurt root: 861
+  3) eye of newt: 632
+  4) white berries: 240
+  5) strength: 139
+  6) attack: 184
+  7) defense: 76
+10 strength potions requested
+Mixing 10 strength potions
+Inventory:
+  1) potion base: 591
+  2) limpwurt root: 851
+  3) eye of newt: 632
+  4) white berries: 240
+  5) strength: 149
+  6) attack: 184
+  7) defense: 76

@@ -1,0 +1,9 @@
+Inventory File: empty.csv
+Inventory:
+Potions File: handout.txt
+5 strength potions requested
+Error: Not enough potion base to make strength potions
+10 attack potions requested
+Error: Not enough potion base to make attack potions
+2 defense potions requested
+Error: Not enough potion base to make defense potions
