@@ -27,6 +27,7 @@ void displayMap(Entity[MAP_Y_SIZE][MAP_X_SIZE], Player);
 void displayInventory(Player);
 void displayBank(Entity[MAX_BANK], int);
 string getCommand();
+double rng();
 // PLACE YOUR PROTOTYPES FOR move(), chop(), mine(), bank() HERE
 
 int main()
