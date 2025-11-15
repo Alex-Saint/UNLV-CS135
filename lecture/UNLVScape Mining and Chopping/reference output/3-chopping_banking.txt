@@ -1,0 +1,829 @@
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                p                                   r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Command: move
+X-Coordinate: 5
+Y-Coordinate: 6
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+moved to position 5, 6
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at chopping wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at chopping wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at chopping wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at chopping wood
+Command: chop                        
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t     p                                                              r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+inventory too full to chop wood
+Command: move
+X-Coordinate: 11
+Y-Coordinate: 12
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w     p              w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+moved to position 11, 12
+Command: bank
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w     p              w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+banked 24 items - bank full
+Command: move
+X-Coordinate: 0
+Y-Coordinate: 10
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+moved to position 0, 10
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood
+Bank: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood
+Bank: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood
+Bank: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: move
+X-Coordinate: 11
+Y-Coordinate: 12
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w     p              w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood
+Bank: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+moved to position 11, 12
+Command: bank
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w     p              w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood
+Bank: wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood, wood
+banked 0 items - bank full
+Command: exit

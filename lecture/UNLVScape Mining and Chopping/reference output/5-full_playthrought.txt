@@ -1,0 +1,582 @@
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                p                                   r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Command: move
+X-Coordinate: 0
+Y-Coordinate: 0
+There's a tree in your way!
+X-Coordinate: move
+Invalid x-coordinate
+X-Coordinate: 0
+Y-Coordinate: 10
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+moved to position 0, 10
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10 p                          w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood
+successfully chopped wood
+Command: move
+X-Coordinate: 25
+Y-Coordinate: 7
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood
+moved to position 25, 7
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood
+unsuccessful at mining rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock
+successfully mined rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock, rock
+successfully mined rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock, rock, rock
+successfully mined rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock, rock, rock
+unsuccessful at mining rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock, rock, rock, rock
+successfully mined rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock, rock, rock, rock, rock
+successfully mined rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                 p  r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock, rock, rock, rock, rock
+unsuccessful at mining rocks
+Command: move
+X-Coordinate: 14
+Y-Coordinate: 12
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w              p     w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Inventory: wood, wood, wood, wood, wood, wood, wood, rock, rock, rock, rock, rock
+moved to position 14, 12
+Command: bank
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w              p     w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+banked 12 items
+Command: move
+X-Coordinate: 22
+Y-Coordinate: 5
+There's a rock in your way!
+X-Coordinate: move
+Invalid x-coordinate
+X-Coordinate: 22
+Y-Coordinate: 6
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                        p           r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+moved to position 22, 6
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                        p           r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at mining rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                        p           r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at mining rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                        p           r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at mining rocks
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                        p           r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at mining rocks
+Command: chop
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                        p           r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+no wood nearby to chop
+Command: mine
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                        p           r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Bank: rock, rock, rock, rock, rock, wood, wood, wood, wood, wood, wood, wood
+unsuccessful at mining rocks
+Command: exit

@@ -1,0 +1,56 @@
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                p                                   r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b        b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+Command: move
+X-Coordinate: 0
+Y-Coordinate: 0
+There's a tree in your way!
+X-Coordinate: 9
+Y-Coordinate: 10
+There's a wall in your way!
+X-Coordinate: 29
+Y-Coordinate: 0
+There's a rock in your way!
+X-Coordinate: 11
+Y-Coordinate: 13
+There's a banker in your way!
+X-Coordinate: 14
+Y-Coordinate: 13
+There's a banker in your way!
+X-Coordinate: 13
+Y-Coordinate: 13
+
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+0  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   0
+1  t  t  t  t  t  t  t  t  t  t                                r  r  r  r  r  r  r  r  r  r   1
+2  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   2
+3  t  t  t  t  t  t  t  t  t                                   r  r  r  r  r  r  r  r  r  r   3
+4  t  t  t  t  t  t  t                                            r  r  r  r        r  r  r   4
+5  t  t  t  t  t  t  t                                            r  r              r  r  r   5
+6  t  t  t  t                                                                    r  r  r  r   6
+7  t  t  t  t                                                                    r  r  r  r   7
+8  t  t  t  t                                                                 r  r  r  r  r   8
+9  t  t                                                                       r  r  r  r  r   9
+10                            w  w  w        w  w  w                          r  r  r  r  r  10
+11                            w                    w                          r  r  r  r  r  11
+12                            w                    w                             r  r  r  r  12
+13                            w     b     p  b     w                             r  r  r  r  13
+14                            w  w  w  w  w  w  w  w                             r  r  r  r  14
+*  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  *
+moved to position 13, 13
+Command: exit
