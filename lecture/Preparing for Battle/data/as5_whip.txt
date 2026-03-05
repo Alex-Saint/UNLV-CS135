@@ -1,0 +1,2 @@
+whip 2500 platinum
+whip 2500000 gold

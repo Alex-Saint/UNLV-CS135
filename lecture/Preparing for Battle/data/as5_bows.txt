@@ -1,0 +1,2 @@
+bow 200 platinum
+bow 200000 gold

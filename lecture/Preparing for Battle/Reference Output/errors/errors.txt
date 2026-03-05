@@ -1,0 +1,11 @@
+line 1 error: not enough platinum to buy a scimitar
+line 2 error: not enough gold to buy a scimitar
+line 3 error: not enough platinum to buy a whip
+line 4 error: not enough gold to buy a whip
+line 5 error: not enough platinum to buy armor
+line 6 error: not enough gold to buy armor
+line 7 error: not enough platinum to buy a bow
+line 8 error: not enough gold to buy a bow
+line 9 error: Invalid weapon
+line 10 error: Invalid monetary amount
+line 11 error: Invalid monetary type

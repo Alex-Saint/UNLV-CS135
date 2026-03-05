@@ -1,0 +1,3 @@
+alex@Alexs-MacBook-Pro-3 AS5 % ./a.out
+Filename: data/as5_whip.txt
+alex@Alexs-MacBook-Pro-3 AS5 % 

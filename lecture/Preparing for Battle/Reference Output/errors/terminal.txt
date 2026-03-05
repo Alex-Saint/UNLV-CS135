@@ -1,0 +1,9 @@
+AS5 % ./a.out
+Filename: invalid
+Invalid filename
+Filename: data/as5_errors
+Invalid filename
+Filename: coding is hard
+Invalid filename
+Filename: data/as5_errors.txt
+AS5 % 

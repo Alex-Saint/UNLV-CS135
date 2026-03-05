@@ -1,0 +1,2 @@
+armor 500 platinum
+armor 500000 gold

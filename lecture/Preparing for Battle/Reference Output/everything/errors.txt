@@ -1,0 +1,32 @@
+line 1 error: Invalid monetary amount
+line 4 error: Invalid monetary type
+line 6 error: Invalid weapon
+line 7 error: Invalid monetary type
+line 9 error: Invalid monetary amount
+line 10 error: not enough gold to buy a bow
+line 14 error: Invalid weapon
+line 16 error: Invalid monetary type
+line 21 error: Invalid monetary amount
+line 23 error: Invalid weapon
+line 25 error: not enough platinum to buy a scimitar
+line 26 error: not enough gold to buy armor
+line 28 error: Invalid weapon
+line 30 error: Invalid monetary type
+line 31 error: not enough gold to buy a whip
+line 33 error: not enough platinum to buy armor
+line 40 error: Invalid monetary amount
+line 41 error: Invalid weapon
+line 42 error: Invalid monetary amount
+line 45 error: Invalid monetary amount
+line 46 error: Invalid weapon
+line 48 error: Invalid monetary type
+line 49 error: Invalid monetary type
+line 51 error: not enough platinum to buy a bow
+line 52 error: Invalid monetary amount
+line 54 error: Invalid weapon
+line 55 error: Invalid monetary type
+line 56 error: not enough gold to buy a scimitar
+line 57 error: Invalid monetary type
+line 58 error: not enough platinum to buy a whip
+line 61 error: Invalid monetary amount
+line 64 error: Invalid weapon

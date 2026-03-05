@@ -1,0 +1,21 @@
+AS5 % ./a.out
+Filename: not a file
+Invalid filename
+Filename: invalid
+Invalid filename
+Filename: error
+Invalid filename
+Filename: whoops
+Invalid filename
+Filename: err
+Invalid filename
+Filename: inv
+Invalid filename
+Filename: data/as5 
+Invalid filename
+Filename: data/as5_everything
+Invalid filename
+Filename: data/as5_everything.tx
+Invalid filename
+Filename: data/as5_everything.txt
+AS5 % 

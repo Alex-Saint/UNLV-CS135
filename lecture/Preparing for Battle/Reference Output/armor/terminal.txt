@@ -1,0 +1,3 @@
+AS5 % ./a.out
+Filename: data/as5_armor.txt
+AS5 % 

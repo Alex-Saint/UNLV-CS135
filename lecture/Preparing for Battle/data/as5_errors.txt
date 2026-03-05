@@ -1,0 +1,11 @@
+scimitar 29 platinum
+scimitar 29999 gold
+whip 2499 platinum
+whip 2499999 gold
+armor 499 platinum
+armor 499999 gold
+bow 199 platinum
+bow 199999 gold
+invalid 0 platinum
+scimitar invalid platinum
+scimitar 0 invalid
