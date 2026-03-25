@@ -1,0 +1,6 @@
+position name
+0 helmet
+1 platebody
+2 platelegs
+3 sword
+4 shield
