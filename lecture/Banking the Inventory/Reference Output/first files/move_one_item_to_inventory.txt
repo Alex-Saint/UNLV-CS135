@@ -1,3 +1,4 @@
+as6 % ./a.out
 Inventory File: inventory1.txt
 Bank File: bank1.txt
 
