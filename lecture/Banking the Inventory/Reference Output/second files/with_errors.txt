@@ -1,0 +1,182 @@
+as6 % ./a.out
+Inventory File: inventory2.txt
+Bank File: bank2.txt
+
+INITIAL INVENTORY:
+helmet_________, platebody______, platelegs______, sword__________, shield_________
+
+INITIAL BANK:
+coins__________, keys___________, _______________, _______________, _______________
+whip___________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+_______________, _______________, _______________, _______________, _______________
+
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 2
+Item to move: helm
+Error: Item not found in inventory
+Item to move: helmet
+Place in bank row: 3
+Place in bank column: 0
+Error: There's something in that position already
+Place in bank row: 4 
+Place in bank column: 0
+
+INVENTORY:
+_______________, platebody______, platelegs______, sword__________, shield_________
+
+BANK:
+coins__________, keys___________, _______________, _______________, _______________
+whip___________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, _______________, _______________, _______________, _______________
+
+(M/m)ove another item (anything else to quit)? m
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 3
+Error: Invalid Selection
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 2
+Item to move: shield   
+Place in bank row: 4
+Place in bank column: 5
+Error: Invalid Position
+Place in bank row: 4
+Place in bank column: 4
+
+INVENTORY:
+_______________, platebody______, platelegs______, sword__________, _______________
+
+BANK:
+coins__________, keys___________, _______________, _______________, _______________
+whip___________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, _______________, _______________, _______________, shield_________
+
+(M/m)ove another item (anything else to quit)? M
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 2
+Item to move: sword
+Place in bank row: 4
+Place in bank column: 1
+
+INVENTORY:
+_______________, platebody______, platelegs______, _______________, _______________
+
+BANK:
+coins__________, keys___________, _______________, _______________, _______________
+whip___________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, sword__________, _______________, _______________, shield_________
+
+(M/m)ove another item (anything else to quit)? m
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 0
+Error: Invalid Selection
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 1
+Item to move: whip
+Place in inventory position: 0
+
+INVENTORY:
+whip___________, platebody______, platelegs______, _______________, _______________
+
+BANK:
+coins__________, keys___________, _______________, _______________, _______________
+_______________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, sword__________, _______________, _______________, shield_________
+
+(M/m)ove another item (anything else to quit)? M
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 1
+Item to move: key
+Error: Item not found in bank
+Item to move: coin
+Error: Item not found in bank
+Item to move: coins
+Place in inventory position: 5
+Error: Invalid Position
+Place in inventory position: 4
+
+INVENTORY:
+whip___________, platebody______, platelegs______, _______________, coins__________
+
+BANK:
+_______________, keys___________, _______________, _______________, _______________
+_______________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, sword__________, _______________, _______________, shield_________
+
+(M/m)ove another item (anything else to quit)? M
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 2
+Item to move: platelegs
+Place in bank row: 5
+Place in bank column: 2
+Error: Invalid Position
+Place in bank row: 4
+Place in bank column: 2
+
+INVENTORY:
+whip___________, platebody______, _______________, _______________, coins__________
+
+BANK:
+_______________, keys___________, _______________, _______________, _______________
+_______________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, sword__________, platelegs______, _______________, shield_________
+
+(M/m)ove another item (anything else to quit)? M
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 2   
+Item to move: platebody
+Place in bank row: 4
+Place in bank column: 3
+
+INVENTORY:
+whip___________, _______________, _______________, _______________, coins__________
+
+BANK:
+_______________, keys___________, _______________, _______________, _______________
+_______________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, sword__________, platelegs______, platebody______, shield_________
+
+(M/m)ove another item (anything else to quit)? m
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 1
+Item to move: keys
+Place in inventory position: 0
+Error: There's something in that position already
+Place in inventory position: 1
+
+INVENTORY:
+whip___________, keys___________, _______________, _______________, coins__________
+
+BANK:
+_______________, _______________, _______________, _______________, _______________
+_______________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, sword__________, platelegs______, platebody______, shield_________
+
+(M/m)ove another item (anything else to quit)? q
