@@ -1,0 +1,49 @@
+as6 % ./a.out
+Inventory File: inventory2.txt
+Bank File: bank2.txt
+
+INITIAL INVENTORY:
+helmet_________, platebody______, platelegs______, sword__________, shield_________
+
+INITIAL BANK:
+coins__________, keys___________, _______________, _______________, _______________
+whip___________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+_______________, _______________, _______________, _______________, _______________
+
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 2
+Item to move: helmet
+Place in bank row: 4
+Place in bank column: 0
+
+INVENTORY:
+_______________, platebody______, platelegs______, sword__________, shield_________
+
+BANK:
+coins__________, keys___________, _______________, _______________, _______________
+whip___________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, _______________, _______________, _______________, _______________
+
+(M/m)ove another item (anything else to quit)? m
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 1
+Item to move: coins
+Place in inventory position: 0
+
+INVENTORY:
+coins__________, platebody______, platelegs______, sword__________, shield_________
+
+BANK:
+_______________, keys___________, _______________, _______________, _______________
+whip___________, bow____________, cannon_________, longsword______, _______________
+rake___________, water__________, seeds__________, _______________, _______________
+hat____________, scarf__________, boots__________, gloves_________, torch__________
+helmet_________, _______________, _______________, _______________, _______________
+
+(M/m)ove another item (anything else to quit)? n
