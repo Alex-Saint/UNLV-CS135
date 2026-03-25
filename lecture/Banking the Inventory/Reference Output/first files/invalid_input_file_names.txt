@@ -1,0 +1,40 @@
+as6 % ./a.out
+Inventory File: error
+Error: Invalid inventory file name
+Inventory File: invalid
+Error: Invalid inventory file name
+Inventory File: inventory1.txt
+Bank File: whoops
+Error: Invalid bank file name
+Bank File: inv
+Error: Invalid bank file name
+Bank File: bank1.txt
+
+INITIAL INVENTORY:
+sword__________, boots__________, _______________, _______________, platebody______
+
+INITIAL BANK:
+platelegs______, _______________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+
+(1) Bank -> Inventory
+(2) Inventory -> Bank
+Selection: 2
+Item to move: sword
+Place in bank row: 0
+Place in bank column: 1
+
+INVENTORY:
+_______________, boots__________, _______________, _______________, platebody______
+
+BANK:
+platelegs______, sword__________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+_______________, _______________, _______________, _______________, _______________
+
+(M/m)ove another item (anything else to quit)? q
