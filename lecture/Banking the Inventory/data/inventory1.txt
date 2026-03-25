@@ -1,0 +1,4 @@
+position name
+0 sword
+1 boots
+4 platebody
