@@ -1,0 +1,872 @@
+AS7 % ./a.out
+Woodcutting XP: 0
+Mining XP: 0
+
+Current Levels:
+  Woodcutting XP: 0
+  Woodcutting Level: 1
+  Mining XP: 0
+  Mining Level: 1
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 1 to 2
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 2 to 3
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 3 to 4
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 4 to 5
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 5 to 6
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 6 to 7
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 7 to 8
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 8 to 9
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+You leveled from 9 to 10
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 4
+
+Current Levels:
+  Woodcutting XP: 1155
+  Woodcutting Level: 10
+  Mining XP: 0
+  Mining Level: 1
+Quitting...
