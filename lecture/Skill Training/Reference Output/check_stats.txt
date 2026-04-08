@@ -1,0 +1,36 @@
+AS7 % ./a.out
+Woodcutting XP: 20
+Mining XP: 500
+
+Current Levels:
+  Woodcutting XP: 20
+  Woodcutting Level: 1
+  Mining XP: 500
+  Mining Level: 5
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 3
+
+Current Levels:
+  Woodcutting XP: 20
+  Woodcutting Level: 1
+  Mining XP: 500
+  Mining Level: 5
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 4
+
+Current Levels:
+  Woodcutting XP: 20
+  Woodcutting Level: 1
+  Mining XP: 500
+  Mining Level: 5
+Quitting...
