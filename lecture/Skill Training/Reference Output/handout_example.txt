@@ -1,0 +1,81 @@
+AS7 % ./a.out
+Woodcutting XP: error
+Error: Invalid xp
+Woodcutting XP: -1
+Error: Invalid xp
+Woodcutting XP: 1155
+Error: Invalid xp
+Woodcutting XP: 20
+Mining XP: error
+Error: Invalid xp
+Mining XP: -1
+Error: Invalid xp
+Mining XP: 1155
+Error: Invalid xp
+Mining XP: 500
+
+Current Levels:
+  Woodcutting XP: 20
+  Woodcutting Level: 1
+  Mining XP: 500
+  Mining Level: 5
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 1
+You chop a tree
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 2
+You mine some rocks
+You leveled from 5 to 6
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 3
+
+Current Levels:
+  Woodcutting XP: 31
+  Woodcutting Level: 1
+  Mining XP: 517
+  Mining Level: 6
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 0
+Error: Invalid option
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 5
+Error: Invalid option
+
+Actions:
+  1. Chop Tree
+  2. Mine Rocks
+  3. Check Stats
+  4. Quit
+Selection: 4
+
+Current Levels:
+  Woodcutting XP: 31
+  Woodcutting Level: 1
+  Mining XP: 517
+  Mining Level: 6
+Quitting...
